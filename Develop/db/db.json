@@ -1,0 +1,14 @@
+
+data = [
+    {
+        "title": "Title of Nates",
+        "text": "This is the text"
+    },
+    {
+        "title": "We're live!",
+        "text": "Body of the text here",
+        "id": "122345689abc"
+    }
+]
+
+print(data)
